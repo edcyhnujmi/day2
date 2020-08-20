@@ -1,0 +1,15 @@
+input {
+    width: 11rem;
+}
+
+.d-day {
+    display: none;
+    font-size: 10rem;
+    text-align: center;
+}
+.dateForm {
+    display :none;
+}
+.show {
+    display: block;
+}
